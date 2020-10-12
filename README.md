@@ -1,4 +1,4 @@
 # CellSynthesis
 Cell Synthesis using BPY
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/imgs/Selections_135.png)
